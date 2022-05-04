@@ -1,3 +1,3 @@
-module github.com/buraksezer/connpool
+module github.com/tsingson/connpool
 
-go 1.13
+go 1.18
